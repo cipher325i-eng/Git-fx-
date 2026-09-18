@@ -1,0 +1,6 @@
+{
+  "name": "Chart Scanner",
+  "description": "Automated chart analysis tool powered by Gemini Vision API for market structure, SMC, liquidity, and key levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
